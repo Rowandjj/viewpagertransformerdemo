@@ -1,0 +1,107 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item android:id="@+id/AccordionTransformer"
+          android:title="AccordionTransformer"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+      <item android:id="@+id/BackgroundToForegroundTransformer"
+            android:title="BackgroundToForegroundTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/CubeInTransformer"
+            android:title="CubeInTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/CubeOutTransformer"
+            android:title="CubeOutTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/DefaultTransformer"
+            android:title="DefaultTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/DepthPageTransformer"
+            android:title="DepthPageTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/FlipHorizontalTransformer"
+            android:title="FlipHorizontalTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/ForegroundToBackgroundTransformer"
+            android:title="ForegroundToBackgroundTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/RotateDownTransformer"
+            android:title="RotateDownTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/RotateUpTransformer"
+            android:title="RotateUpTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/ScaleInOutTransformer"
+            android:title="ScaleInOutTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/StackTransformer"
+            android:title="StackTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/TabletTransformer"
+            android:title="TabletTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/ZoomInTransformer"
+            android:title="ZoomInTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/ZoomOutSlideTransformer"
+            android:title="ZoomOutSlideTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/ZoomOutTranformer"
+            android:title="ZoomOutTranformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item android:id="@+id/FlipVerticalTransformer"
+            android:title="FlipVerticalTransformer"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+    <item android:id="@+id/FLOW"
+          android:title="FLOW"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/DEPTH"
+          android:title="DEPTH"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/ZOOM"
+          android:title="ZOOM"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/ZOOM_2"
+          android:title="ZOOM_2"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/SLIDE_OVER"
+          android:title="SLIDE_OVER"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+
+</menu>
